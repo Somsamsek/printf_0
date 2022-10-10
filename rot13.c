@@ -1,4 +1,4 @@
-#include "printf.h"
+#include "main.h"
 
 /**
  * rot13 - encrypts string with rot13

@@ -1,4 +1,4 @@
-#include "printf.h"
+#include "main.h"
 
 /**
  * get_func - returns needed function

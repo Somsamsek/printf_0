@@ -1,4 +1,4 @@
-#include "printf.h"
+#include "main.h"
 
 /**
  * _strlen - prints length string in integer

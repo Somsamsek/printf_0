@@ -68,6 +68,5 @@ Somsamsek
 
 BubuNebed
 
-[![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitte
 
-r_Bird.svg/30px-Twitter_Bird.svg.png)]
+![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)

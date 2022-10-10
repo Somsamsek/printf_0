@@ -1,4 +1,4 @@
-#include "printf.h"
+#include "main.h"
 
 /**
  * itoOctal - change int to octal

@@ -1,5 +1,5 @@
-#ifndef PRINTF_H
-#define PRINTF_H
+#ifndef MAIN_H
+#define MAIN_H
 
 #include <stdarg.h> /* va_list */
 #include <stdlib.h> /* malloc, free */
@@ -33,4 +33,4 @@ typedef struct types
 	char* (*func)(va_list);
 } print;
 
-#endif /* PRINTF_H */
+#endif /* MAIN_H */

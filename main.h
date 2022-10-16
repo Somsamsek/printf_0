@@ -1,8 +1,9 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-#include <stdlib.h>
-#include <stdarg.h>
+#include <stdarg.h> /* va_list */
+#include <stdlib.h> /* malloc, free */
+#include <unistd.h> /* write */
 
 /**
  * struct flags - struct containing flags to "turn on"
